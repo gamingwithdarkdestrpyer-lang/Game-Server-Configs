@@ -1,18 +1,25 @@
 #Server main settings
-server_name: SERVERNAME
+server_name: controls rp/gaming server
 #default - uses server_name
 player_list_title: default
 player_list_title_rate: default
 serverinfo_pastebin_id: 7wV681fT
 server_ip: auto
-max_players: 20
+max_players: 40
 server_tickrate: 60
 use_reserved_slots: true
 lobby_waiting_time: default
 ipv4_bind_ip: 0.0.0.0
 ipv6_bind_ip: ::
 contact_email: default
-
+1 dont be racist say slurs no homophobia transphobia or anything that could hurt someone this incules telling someone to kill/hurt thereself
+2 dont cheat or camp teaming is allowed kos is not allowed
+3 dont inpersonate staff or anyone 
+4 dont be extremly loud and ruin the game 
+5 dont beg for stuff 
+6 be 13 older 
+9what im trying to say is dont do something that is dumb also treat everyone with respect
+10 have fun 
 #Spawn settings
 minimum_MTF_time_to_spawn: 280
 maximum_MTF_time_to_spawn: 350
